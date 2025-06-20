@@ -1,0 +1,36 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# VSCode
+.vscode/
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test outputs
+htmlcov/
+.coverage
+
+# Python egg
+*.egg-info/
+*.egg
+
+tests/__pycache__/
+app/__pycache__/
+app/views/__pycache__/
